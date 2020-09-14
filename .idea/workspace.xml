@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95c49be5-eca2-44e9-911c-b1fb861bb86d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3_API_28" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hTzkRefEEolX9z6kKfBhbsq0Pr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="X:/codebase/pokedex_zipdev" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="X:\codebase\pokedex_zipdev\lib\routes\pages" />
+      <recent name="X:\codebase\pokedex_zipdev\lib\controllers" />
+      <recent name="X:\codebase\pokedex_zipdev\lib\routes\widgets" />
+      <recent name="X:\codebase\pokedex_zipdev\lib\routes" />
+      <recent name="X:\codebase\pokedex_zipdev\lib\models" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="X:\codebase\pokedex_zipdev\lib\routes" />
+      <recent name="X:\codebase\pokedex_zipdev\lib\routes\pages" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95c49be5-eca2-44e9-911c-b1fb861bb86d" name="Default Changelist" comment="" />
+      <created>1600050012782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600050012782</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1844" y="-1121" key="#PSD" timestamp="1600114160078">
+      <screen x="1366" y="-1394" width="1920" height="1080" />
+    </state>
+    <state x="1844" y="-1121" key="#PSD/0.0.1366.768/1366.-1394.1920.1080/5206.-280.1120.700@1366.-1394.1920.1080" timestamp="1600114160078" />
+    <state x="2132" y="-1137" key="#com.intellij.ide.util.MemberChooser" timestamp="1600098916641">
+      <screen x="1366" y="-1394" width="1920" height="1080" />
+    </state>
+    <state x="2132" y="-1137" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768/1366.-1394.1920.1080/5206.-280.1120.700@1366.-1394.1920.1080" timestamp="1600098916641" />
+    <state x="2056" y="-1065" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1600113853652">
+      <screen x="1366" y="-1394" width="1920" height="1080" />
+    </state>
+    <state x="2056" y="-1065" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1366.768/1366.-1394.1920.1080/5206.-280.1120.700@1366.-1394.1920.1080" timestamp="1600113853652" />
+    <state x="2057" y="-1106" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600101954637">
+      <screen x="1366" y="-1394" width="1920" height="1080" />
+    </state>
+    <state x="2057" y="-1106" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768/1366.-1394.1920.1080/5206.-280.1120.700@1366.-1394.1920.1080" timestamp="1600101954637" />
+    <state x="2017" y="-1132" key="#main.dart" timestamp="1600113855013">
+      <screen x="1366" y="-1394" width="1920" height="1080" />
+    </state>
+    <state x="2017" y="-1132" key="#main.dart/0.0.1366.768/1366.-1394.1920.1080/5206.-280.1120.700@1366.-1394.1920.1080" timestamp="1600113855013" />
+    <state x="2182" y="-1088" key="AndroidProcessChooserDialog" timestamp="1600072765081">
+      <screen x="1366" y="-1394" width="1920" height="1080" />
+    </state>
+    <state x="2182" y="-1088" key="AndroidProcessChooserDialog/0.0.1366.768/1366.-1394.1920.1080/5206.-280.1120.700@1366.-1394.1920.1080" timestamp="1600072765081" />
+    <state x="2107" y="-1098" key="FileChooserDialogImpl" timestamp="1600114320635">
+      <screen x="1366" y="-1394" width="1920" height="1080" />
+    </state>
+    <state x="2107" y="-1098" key="FileChooserDialogImpl/0.0.1366.768/1366.-1394.1920.1080/5206.-280.1120.700@1366.-1394.1920.1080" timestamp="1600114320635" />
+    <state width="1862" height="464" key="GridCell.Tab.0.bottom" timestamp="1600112667670">
+      <screen x="1366" y="-1394" width="1920" height="1080" />
+    </state>
+    <state width="1862" height="464" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.-1394.1920.1080/5206.-280.1120.700@1366.-1394.1920.1080" timestamp="1600112667670" />
+    <state width="1862" height="464" key="GridCell.Tab.0.center" timestamp="1600112667670">
+      <screen x="1366" y="-1394" width="1920" height="1080" />
+    </state>
+    <state width="1862" height="464" key="GridCell.Tab.0.center/0.0.1366.768/1366.-1394.1920.1080/5206.-280.1120.700@1366.-1394.1920.1080" timestamp="1600112667670" />
+    <state width="1862" height="464" key="GridCell.Tab.0.left" timestamp="1600112667670">
+      <screen x="1366" y="-1394" width="1920" height="1080" />
+    </state>
+    <state width="1862" height="464" key="GridCell.Tab.0.left/0.0.1366.768/1366.-1394.1920.1080/5206.-280.1120.700@1366.-1394.1920.1080" timestamp="1600112667670" />
+    <state width="1862" height="464" key="GridCell.Tab.0.right" timestamp="1600112667670">
+      <screen x="1366" y="-1394" width="1920" height="1080" />
+    </state>
+    <state width="1862" height="464" key="GridCell.Tab.0.right/0.0.1366.768/1366.-1394.1920.1080/5206.-280.1120.700@1366.-1394.1920.1080" timestamp="1600112667670" />
+    <state x="1828" y="-1211" key="SettingsEditor" timestamp="1600114211010">
+      <screen x="1366" y="-1394" width="1920" height="1080" />
+    </state>
+    <state x="1828" y="-1211" key="SettingsEditor/0.0.1366.768/1366.-1394.1920.1080/5206.-280.1120.700@1366.-1394.1920.1080" timestamp="1600114211010" />
+    <state x="2134" y="-936" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600102375043">
+      <screen x="1366" y="-1394" width="1920" height="1080" />
+    </state>
+    <state x="2134" y="-936" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768/1366.-1394.1920.1080/5206.-280.1120.700@1366.-1394.1920.1080" timestamp="1600102375043" />
+    <state x="2020" y="-1122" width="613" height="536" key="find.popup" timestamp="1600112933003">
+      <screen x="1366" y="-1394" width="1920" height="1080" />
+    </state>
+    <state x="2020" y="-1122" width="613" height="536" key="find.popup/0.0.1366.768/1366.-1394.1920.1080/5206.-280.1120.700@1366.-1394.1920.1080" timestamp="1600112933003" />
+    <state x="1979" y="-450" key="run.anything.popup" timestamp="1600111541252">
+      <screen x="1366" y="-1394" width="1920" height="1080" />
+    </state>
+    <state x="1979" y="-450" key="run.anything.popup/0.0.1366.768/1366.-1394.1920.1080/5206.-280.1120.700@1366.-1394.1920.1080" timestamp="1600111541252" />
+    <state x="1985" y="-1162" width="672" height="678" key="search.everywhere.popup" timestamp="1600112216365">
+      <screen x="1366" y="-1394" width="1920" height="1080" />
+    </state>
+    <state x="1985" y="-1162" width="672" height="678" key="search.everywhere.popup/0.0.1366.768/1366.-1394.1920.1080/5206.-280.1120.700@1366.-1394.1920.1080" timestamp="1600112216365" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/routes/widgets/headerintro.dart</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/routes/widgets/poke-list.dart</url>
+          <line>14</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/routes/widgets/poke-list.dart</url>
+          <line>25</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/routes/pages/login-page.dart</url>
+          <line>81</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/controllers/welcome-controller.dart</url>
+          <line>17</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/routes/pages/welcome-page.dart</url>
+          <line>21</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
