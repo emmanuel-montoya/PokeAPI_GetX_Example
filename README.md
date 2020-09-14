@@ -1,4 +1,4 @@
-# pokedex_zipdev
+# pokeAPI_getx_example
 
 This code assessment is to assess expertise with Flutter as well as general coding skills and is meant to be simple. Focused on writing clean, scalable and testable code using best practices for the Flutter framework.
 
@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Additional Information
+This project was developed with Android Studio 4.0.1
+Using a Pixel 3 API 28 (Android 9.0) as virtual device.
