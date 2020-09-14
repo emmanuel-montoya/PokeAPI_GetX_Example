@@ -1,0 +1,1 @@
+# PokeAPI_GetX_Example
